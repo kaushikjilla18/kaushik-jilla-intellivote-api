@@ -1,0 +1,112 @@
+[
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question_id": "1",
+        "question": "Brandon Routh plays the titular character in the movie 'John Wick'.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question_id": "2",
+        "question": "Ewan McGregor did not know the name of the second prequel film of Star Wars during and after filming.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question_id": "3",
+        "question": "The film '2001: A Space Odyssey' was released on December 31st, 2000.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question_id": "4",
+        "question": "In the original Star Wars trilogy, Alec Guinness provided the voice for Darth Vader.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question_id": "5",
+        "question": "Han Solo's co-pilot and best friend, 'Chewbacca', is an Ewok.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question_id": "6",
+        "question": "In the movie The Revenant, DiCaprio's character hunts down the killer of his son.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question_id": "7",
+        "question": "The 2010 film 'The Social Network' is a biographical drama film about MySpace founder Tom Anderson.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question_id": "8",
+        "question": "Shaquille O'Neal appeared in the 1997 film 'Space Jam'.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question_id": "9",
+        "question": "Leonardo DiCaprio won an Oscar for Best Actor in 2004's 'The Aviator'.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question_id": "10",
+        "question": "'Minions' was released on June 10th, 2015.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    }
+]
