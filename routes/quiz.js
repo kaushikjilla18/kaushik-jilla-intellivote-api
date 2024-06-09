@@ -15,7 +15,11 @@ router.get('/:id', (req, res) => {
     const questionsArr = loadQuizData();
     const foundQuestion = questionsArr.find((question) => question.question_id === req.params.id);
     console.log(foundQuestion);
-    res.json(foundQuestion);
+    if(foundQuestion){
+        res.json(foundQuestion);
+    }else {
+        res.status(404).json({ message: "Question not found" });
+    }
 })
 
 module.exports = router;

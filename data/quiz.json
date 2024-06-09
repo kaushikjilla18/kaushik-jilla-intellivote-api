@@ -35,9 +35,9 @@
     {
         "type": "boolean",
         "difficulty": "easy",
-        "category": "Entertainment: Film",
+        "category": "General Knowledge",
         "question_id": "4",
-        "question": "In the original Star Wars trilogy, Alec Guinness provided the voice for Darth Vader.",
+        "question": "The Great Wall of China is visible from the moon.",
         "correct_answer": "False",
         "incorrect_answers": [
             "True"
@@ -46,9 +46,9 @@
     {
         "type": "boolean",
         "difficulty": "easy",
-        "category": "Entertainment: Film",
+        "category": "General Knowledge",
         "question_id": "5",
-        "question": "Han Solo's co-pilot and best friend, 'Chewbacca', is an Ewok.",
+        "question": "Nutella is produced by the German company Ferrero.",
         "correct_answer": "False",
         "incorrect_answers": [
             "True"
@@ -57,9 +57,9 @@
     {
         "type": "boolean",
         "difficulty": "easy",
-        "category": "Entertainment: Film",
+        "category": "General Knowledge",
         "question_id": "6",
-        "question": "In the movie The Revenant, DiCaprio's character hunts down the killer of his son.",
+        "question": "When you cry in space, your tears stick to your face.",
         "correct_answer": "True",
         "incorrect_answers": [
             "False"
@@ -70,7 +70,7 @@
         "difficulty": "easy",
         "category": "Entertainment: Film",
         "question_id": "7",
-        "question": "The 2010 film 'The Social Network' is a biographical drama film about MySpace founder Tom Anderson.",
+        "question": "In the original Star Wars trilogy, Alec Guinness provided the voice for Darth Vader.",
         "correct_answer": "False",
         "incorrect_answers": [
             "True"
@@ -81,7 +81,7 @@
         "difficulty": "easy",
         "category": "Entertainment: Film",
         "question_id": "8",
-        "question": "Shaquille O'Neal appeared in the 1997 film 'Space Jam'.",
+        "question": "Han Solo's co-pilot and best friend, 'Chewbacca', is an Ewok.",
         "correct_answer": "False",
         "incorrect_answers": [
             "True"
@@ -92,6 +92,39 @@
         "difficulty": "easy",
         "category": "Entertainment: Film",
         "question_id": "9",
+        "question": "In the movie The Revenant, DiCaprio's character hunts down the killer of his son.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question_id": "10",
+        "question": "The 2010 film 'The Social Network' is a biographical drama film about MySpace founder Tom Anderson.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question_id": "11",
+        "question": "Shaquille O'Neal appeared in the 1997 film 'Space Jam'.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question_id": "12",
         "question": "Leonardo DiCaprio won an Oscar for Best Actor in 2004's 'The Aviator'.",
         "correct_answer": "False",
         "incorrect_answers": [
@@ -102,11 +135,22 @@
         "type": "boolean",
         "difficulty": "easy",
         "category": "Entertainment: Film",
-        "question_id": "10",
+        "question_id": "13",
         "question": "'Minions' was released on June 10th, 2015.",
         "correct_answer": "False",
         "incorrect_answers": [
             "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General Knowledge",
+        "question_id": "14",
+        "question": "You can legally drink alcohol while driving in Mississippi.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
         ]
     }
 ]
