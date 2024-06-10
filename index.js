@@ -8,7 +8,6 @@ const cors = require('cors');
 const port = 5050;
 
 //middleware
-// app.use(express.static("public"));      //load images from public folder
 app.use(cors());                        //to allow cors
 app.use(express.json());                //parse the json
 
