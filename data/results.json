@@ -1,0 +1,38 @@
+[
+    {
+        "qid": "1",
+        "question": "Team Lunch??",
+        "yes": 1,
+        "no": 0
+    },
+    {
+        "qid": "2",
+        "question": "Dinner tonight?",
+        "yes": 0,
+        "no": 0
+    },
+    {
+        "qid": "3",
+        "question": "dinner tonight??",
+        "yes": 1,
+        "no": 0
+    },
+    {
+        "qid": "4",
+        "question": "enjoyed match today?",
+        "yes": 0,
+        "no": 1
+    },
+    {
+        "qid": "5",
+        "question": "Weekend outing?",
+        "yes": 0,
+        "no": 1
+    },
+    {
+        "qid": "6",
+        "question": "Did you like the intellivote?",
+        "yes": 1,
+        "no": 0
+    }
+]
