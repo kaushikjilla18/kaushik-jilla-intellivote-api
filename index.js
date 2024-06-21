@@ -5,7 +5,7 @@ const questionsRoute = require('./routes/results');
 const quizQuestionsRoute = require('./routes/quiz');
 const cors = require('cors');
 
-const port = 5050;
+const PORT = process.env.PORT || 5050;
 
 //middleware
 app.use(cors());                        //to allow cors
@@ -25,4 +25,4 @@ app.get('/', (req, res) => {
 });
 
 //boot up the server
-app.listen(port, () => { console.log(`app is running at http://localhost:${port}`) });
+app.listen(PORT, () => { console.log(`app is running at http://localhost:${PORT}`) });
